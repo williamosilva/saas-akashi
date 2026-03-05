@@ -143,28 +143,28 @@ export function FeatureSteps({
         <div className="flex -space-x-2.5">
           <img
             className="rounded-full ring-2 ring-zinc-900"
-            src="https://originui.com/avatar-80-03.jpg"
+            src="https://i.pravatar.cc/32?img=11"
             width={32}
             height={32}
             alt="Avatar 01"
           />
           <img
             className="rounded-full ring-2 ring-zinc-900"
-            src="https://originui.com/avatar-80-04.jpg"
+            src="https://i.pravatar.cc/32?img=20"
             width={32}
             height={32}
             alt="Avatar 02"
           />
           <img
             className="rounded-full ring-2 ring-zinc-900"
-            src="https://originui.com/avatar-80-05.jpg"
+            src="https://i.pravatar.cc/32?img=47"
             width={32}
             height={32}
             alt="Avatar 03"
           />
           <img
             className="rounded-full ring-2 ring-zinc-900"
-            src="https://originui.com/avatar-80-06.jpg"
+            src="https://i.pravatar.cc/32?img=58"
             width={32}
             height={32}
             alt="Avatar 04"
