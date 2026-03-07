@@ -182,7 +182,7 @@ export default function Footer() {
               {
                 name: "Website",
                 icon: Globe,
-                href: "http://williamsilva.dev/",
+                href: "http://williamsilva.tech/",
               },
             ].map((social) => (
               <motion.a
@@ -217,3 +217,4 @@ export default function Footer() {
     </motion.footer>
   );
 }
+
